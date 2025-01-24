@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XMLdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <publicInt1>1222</publicInt1>
+  <publicInt2>10987</publicInt2>
+  <publicInt3>-1</publicInt3>
+  <publicTable>
+    <int>1222</int>
+    <int>10987</int>
+    <int>12</int>
+    <int>133</int>
+  </publicTable>
+</XMLdata>
